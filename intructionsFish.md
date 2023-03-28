@@ -7,6 +7,7 @@ copy .env.example into .env and change the first line to contain the website wit
 flask run
 
 
+To run:
 activate venv:
 source venv/bin/activate
 

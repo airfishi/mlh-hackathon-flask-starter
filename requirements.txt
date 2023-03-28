@@ -1,9 +1,9 @@
-# alembic
-# certifi
-# cffi
-# chardet
-# Click
-# Flask
+# alembic==1.10.2
+# certifi==2022.12.7
+# cffi==1.15.1
+# chardet==5.1.0
+# Click==8.1.3
+# Flask==2.2.3
 # Flask-Misaka
 # Flask-SQLAlchemy
 # gunicorn
